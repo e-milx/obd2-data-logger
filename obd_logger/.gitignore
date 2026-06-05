@@ -1,0 +1,6 @@
+# Mengabaikan data hasil log agar tidak mengotori repository
+*.csv
+
+# Mengabaikan folder cache Python
+__pycache__/
+.vscode/
